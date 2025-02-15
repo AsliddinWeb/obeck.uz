@@ -14384,7 +14384,7 @@ Section Head
 .section-head .subtitle {
   font-weight: var(--s-bold);
   font-family: var(--font-primary);
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 28px;
   letter-spacing: 1px;
@@ -19115,7 +19115,7 @@ section.clients-testimonial-area {
 .price-plan-card .main-price {
   color: var(--color-heading);
   font-family: var(--font-primary);
-  font-size: 48px;
+  font-size: 36px;
   font-weight: 700;
   line-height: 60px;
   text-transform: capitalize;
