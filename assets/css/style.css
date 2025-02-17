@@ -17100,7 +17100,7 @@ section.clients-testimonial-area {
   position: relative;
   z-index: 1;
   display: flex;
-  justify-content: end;
+  justify-content: start;
 }
 @media (min-width: 1450px) {
   .banner-one-main-wrapper .banner-right-content {
